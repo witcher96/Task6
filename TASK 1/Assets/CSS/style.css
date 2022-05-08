@@ -1,0 +1,25 @@
+div{
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#outer{
+    width: 250px;
+    height: 250px;
+    background-color: #ffa500;
+    border: 25px solid #ff0000;
+}
+#middle{
+    width: 150px;
+    height: 150px;
+    background-color: #008000;
+    border:  25px solid #ffff00;
+}
+#inner{
+    width: 50px;
+    height: 50px;
+    background-color: #800080;
+    border: 25px solid #0000ff;
+}
